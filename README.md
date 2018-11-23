@@ -13,6 +13,6 @@ lib60870-5-101/104 from MZ-Automation http://libiec61850.com/libiec61850/
 
     cs104_emulator <path to directory with csv files> [-p ip_port] [-d]
     	-d start as Unix daemon
-    	-p ip port, default 2204
+    	-p ip port, default 2404
 
   
