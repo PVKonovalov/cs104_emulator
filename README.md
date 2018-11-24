@@ -3,7 +3,7 @@
 Smart meter emulator with IEC60870-5-104 protocol provides sending single point and measurement data. It using comma separated values files with one measure value per 10 minutes for measurement and timestamp with value for the single point. A linear approximation using to generate every second's value for analog data.
 
 # External libs
-lib60870-5-101/104 from MZ-Automation http://libiec61850.com/libiec61850/
+lib60870-5-101/104 from MZ-Automation https://github.com/mz-automation/lib60870
 
 # Compiling
 
